@@ -15,7 +15,7 @@ Both instructions ensure a proper setup of the stack frame for a function. This 
 *That's the story of how it all started - Fast Forward:*
 
 
-Currently I'm a Cognitive Engineer at IBM Watson in Germany working together with clients on innovative use cases cross industries. I have a strong background in NLP and Machine Learning and experienced in Java, Python and C.\
+Currently I'm a Cognitive Engineer at IBM Watson in Germany working together with clients on innovative use cases cross industries. I have a strong background in NLP and Machine Learning and experienced in Java, Python and C.  
 *Studies*: Innovation and Management Master Programme at [SMI](https://www.steinbeis-smi.de/de/master/programme/management-innovation.html) and a Bachelor of Science from DHBW Stuttgart in Computer Science with a semster abroad in China.
 
 Curious about everything related to technology, art, sustainability, politics and economics. I think all of this is somehow related and it's important that we focus on those relationships rather than having a tunnel view on a specific field on interest.
@@ -26,5 +26,5 @@ For my latest publications take a look at my [Google Scholar](https://scholar.go
 
 ### Projects
 
-Some of my electronics and 3D printing projects can be found on my old [blog](https://eightbec.github.io/blog/).\
+Some of my electronics and 3D printing projects can be found on my old [blog](https://eightbec.github.io/blog/).  
 For all open source software projects take a look at my [github](https://github.com/eightBEC) profile.
